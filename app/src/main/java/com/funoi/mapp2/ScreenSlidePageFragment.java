@@ -1,4 +1,4 @@
-package com.funoi.interfacedesign;
+package com.funoi.mapp2;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;

@@ -1,4 +1,4 @@
-package com.funoi.interfacedesign;
+package com.funoi.mapp2;
 
 import android.content.Context;
 import androidx.test.platform.app.InstrumentationRegistry;

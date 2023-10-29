@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.funoi.interfacedesign'
+    namespace 'com.funoi.mapp2'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.funoi.interfacedesign"
+        applicationId "com.funoi.mapp2"
         minSdk 24
         targetSdk 33
         versionCode 1

@@ -1,4 +1,4 @@
-package com.funoi.interfacedesign;
+package com.funoi.mapp2;
 
 import org.junit.Test;
 

@@ -1,5 +1,4 @@
-package com.funoi.interfacedesign;
-
+package com.funoi.mapp2;
 
 
 import android.view.View;
@@ -59,6 +58,7 @@ public class MainActivity extends AppCompatActivity {
         viewSwitcherListener(viewSwitcherButton1);
         viewSwitcherListener(viewSwitcherButton2);
 
+        //设置图片
         List<Fragment> fragments = new ArrayList<>();
         fragments.add(new ScreenSlidePageFragment(R.layout.fragment_screen_slide_page));
         fragments.add(new ScreenSlidePageFragment(R.layout.fragment_screen_slide_page2));
