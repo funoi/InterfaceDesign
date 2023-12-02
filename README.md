@@ -1,3 +1,2 @@
-# MApp2
-大学 -- Android实验二 <br>
-idea
+## MApp2
+大学 -- Android实验二  
